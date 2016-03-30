@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 Java Tic Tac Toe project (honors group project 2015-2016)
 public class TicTacToe {
- 
+ //faggots are everywhere
     private char[][] board; 
 
     private char currentPlayerMark;
